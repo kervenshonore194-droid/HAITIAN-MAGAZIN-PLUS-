@@ -44,7 +44,8 @@ HAITIAN MAGASIN PLUS (HMP) est votre application d'achat en ligne incontournable
 # Prototype Figma
 https://www.figma.com/design/QPrcrus2kpvCrumnoq4kh2/Projet-Final?node-id=0-1&t=64gCLyzVxTfbTBFe-1
 
-<img src="Android Compact - 1.jpg" width=200>  <img src="Sign up.png" width=200>  <img src="Home.png" width=200>  <img src="New Alert.png" width=200>  <img src="Map.png" width=200>  <img src="Liste Alerte.png" width=200>  <img src="Manifestation.png" width=200>  <img src="menu.png" width=200>  <img src="Profile.png" width=200> 
-<img src="menu sombre.png" width=200> 
+<img src="Android Compact - 1.jpg" width=200>  <img src="Android Compact - 2.jpg" width=200>  <img src="Android Compact - 8.jpg" width=200>  <img src="Android Compact - 9.jpg" width=200>  <img src="Android Compact - 10.jpg" width=200>  <img src="Android Compact - 11.jpg" width=200>  <img src="Android Compact - 7.jpg" width=200>  <img src="Android Compact-12.jpg" width=200>  <img src="Android Compact-13.jpg" width=200> 
+<img src="Android Compact - 14.jpg" width=200> <img src="Android Compact - 15.jpg" width=200>
+
 
 
