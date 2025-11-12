@@ -1,11 +1,11 @@
 ﻿# HAITIAN MAGAZIN PLUS
-HAITIAN MAGASIN PLUS (HMP) est votre application d'achat en ligne incontournable, spécialisée dans la vente d'électronique de haute qualité. Nous rendons l'accès aux dernières technologies rapide, fiable et sécurisé, directement depuis votre mobile.Découvrez une sélection complète de smartphones, ordinateurs portables, accessoires audio, montres connectées, et plus encore, provenant des meilleures marques mondiales.Notre slogan est notre engagement. Nous nous efforçons d'offrir une expérience d'achat sans friction, un service client réactif et des garanties solides sur tous nos produits.Téléchargez HAITIAN MAGASIN PLUS aujourd'hui et faites l'expérience du shopping électronique où la qualité et votre satisfaction passent avant tout !
+HAITIAN MAGASIN PLUS (HMP) est une application d'achat en ligne incontournable, spécialisée dans la vente des articles électroniques de haute qualité. Nous rendons l'accès aux dernières technologies rapide, fiable et sécurisé, directement depuis votre mobile.Découvrez une sélection complète de smartphones, ordinateurs portables, accessoires audio, montres connectées, et plus encore, provenant des meilleures marques mondiales.Notre slogan est notre engagement. Nous nous efforçons d'offrir une expérience d'achat sans friction, un service client réactif et des garanties solides sur tous nos produits.Téléchargez HAITIAN MAGASIN PLUS aujourd'hui et faites l'expérience du shopping électronique où la qualité et votre satisfaction passent avant tout !
 
 
 # Membres du groupe
 - Kervens HONORÉ 
 - Makaty ROSIER
-- Nephtalie Barbara JACQUE
+- Nephtalie Barbara JACQUES
   
 # User Stories
 
@@ -32,6 +32,7 @@ HAITIAN MAGASIN PLUS (HMP) est votre application d'achat en ligne incontournable
 https://www.figma.com/design/QPrcrus2kpvCrumnoq4kh2/Projet-Final?node-id=0-1&t=64gCLyzVxTfbTBFe-1
 
 <img src="Android Compact - 1.jpg" width=200>  <img src="Android Compact - 2.jpg" width=200>  <img src="Android Compact - 8.jpg" width=200>  <img src="Android Compact - 9.jpg" width=200>  <img src="Android Compact - 10.jpg" width=200>  <img src="Android Compact - 11.jpg" width=200>  <img src="Android Compact - 7.jpg" width=200>  <img src="Android Compact - 12.jpg" width=200>  <img src="Android Compact - 13.jpg" width=200> <img src="Android Compact - 14.jpg" width=200> <img src="Android Compact - 15.jpg" width=200>
+
 
 
 
